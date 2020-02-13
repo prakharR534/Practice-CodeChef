@@ -23,8 +23,5 @@ cout<<"Lose";
 
 	}
 
-
-
-
 	return 0;
 }
